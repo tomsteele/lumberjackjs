@@ -1,3 +1,5 @@
+// Copyright (c) 2013 Tom Steele
+// See the file license.txt for copying permission
 //
 // run uglify-js or some other obfuscator before using
 //

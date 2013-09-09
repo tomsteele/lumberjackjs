@@ -1,4 +1,5 @@
-
+// Copyright (c) 2013 Tom Steele
+// See the file license.txt for copying permission
 var express = require('express');
 var app = express();
 var server = require('http').createServer(app);
