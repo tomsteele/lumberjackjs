@@ -3,7 +3,7 @@ lumberjackjs
 
 Express and socket.io to capture and send credentials from a victim. Uses client side Javascript to capture keys for seamless site cloning. Simply clone a site, add 2 lines of html, and you're good to go. Send any link to your victim as the server uses a catch all url '*'. No need to setup a full mirror and duplicate directory structure.
 
-####Quick Start####
+#### Quick Start
 
 1. Clone repo and install modules
 
